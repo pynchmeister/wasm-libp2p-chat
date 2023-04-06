@@ -10,8 +10,8 @@ A wasm chat app connected to the libp2p network. This implementation is a basic 
 
 ### instructions
 
-1. ```cargo new --lib wasm_libp2p_chat
-      cd wasm_libp2p_chat```
+1. ```cargo new --lib wasm_libp2p_chat```
+   ```cd wasm_libp2p_chat```
       
 2. Build the Rust library and generate the WebAssembly module:
 
